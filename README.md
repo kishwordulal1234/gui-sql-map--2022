@@ -8,8 +8,12 @@ this is quite easy to use
  
   theair is no password
   
-   after extraction complete you will see
+   after extraction complete 
    
-    and app name sql map gui .exe just cleack it and  use it 
+     you will see  a app  name sql map gui .exe just cleack it and  use it 
     
     #happy hunting :)
+    
+     you this in a good way 
+     any damage and  harmfull attack dome by this i wont be responsibale for it 
+      if done any damage by this tool you will be responsibal for that 
