@@ -9,6 +9,7 @@ this is quite easy to use
   theair is no password
   
    after extraction complete 
+   https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.softpedia.com%2Fget%2FInternet%2FServers%2FDatabase-Utils%2FSQL-Map-GUI.shtml&psig=AOvVaw20UdvwUyg1KeDL0IaiFgxI&ust=1645410155776000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiuzc-cjfYCFQAAAAAdAAAAABAD
    
      you will see  a app  name sql map gui .exe just cleack it and  use it 
     
